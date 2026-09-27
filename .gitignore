@@ -1,0 +1,7 @@
+# Generated assignment data
+breach_data/
+test_cases/
+
+# Python files
+__pycache__/
+*.pyc
